@@ -1,0 +1,2 @@
+# Synthetic-Data-Generation-Using-Large-Language-Models-LLMs-
+🤖 Synthetic Data Generation Using LLMs is an end-to-end Generative AI project that creates realistic synthetic datasets while preserving statistical patterns and privacy. The platform includes machine learning evaluation, Explainable AI (SHAP), privacy analysis, and an interactive Streamlit dashboard for data visualization and reporting.
